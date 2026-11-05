@@ -1,0 +1,4 @@
+[core]
+    remote = ssd_remote
+['remote "ssd_remote"']
+    url = ../s3
